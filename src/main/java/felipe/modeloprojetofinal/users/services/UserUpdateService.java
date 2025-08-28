@@ -1,12 +1,12 @@
-package seunomeaqui.modeloprojetofinal.users.services;
+package felipe.modeloprojetofinal.users.services;
 
 import jakarta.persistence.EntityNotFoundException;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import seunomeaqui.modeloprojetofinal.users.dto.UserUpdateEmailDTO;
-import seunomeaqui.modeloprojetofinal.users.dto.UserUpdateNameDTO;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
-import seunomeaqui.modeloprojetofinal.users.repositories.UserRepository;
+import felipe.modeloprojetofinal.users.dto.UserUpdateEmailDTO;
+import felipe.modeloprojetofinal.users.dto.UserUpdateNameDTO;
+import felipe.modeloprojetofinal.users.entities.User;
+import felipe.modeloprojetofinal.users.repositories.UserRepository;
 
 @Service
 @RequiredArgsConstructor

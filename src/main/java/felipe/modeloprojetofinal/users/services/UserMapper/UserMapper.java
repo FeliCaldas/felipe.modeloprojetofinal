@@ -1,8 +1,8 @@
-package seunomeaqui.modeloprojetofinal.users.services.UserMapper;
+package felipe.modeloprojetofinal.users.services.UserMapper;
 
-import seunomeaqui.modeloprojetofinal.users.dto.UserCreateDTO;
-import seunomeaqui.modeloprojetofinal.users.dto.UserResponseDTO;
-import seunomeaqui.modeloprojetofinal.users.entities.User;
+import felipe.modeloprojetofinal.users.dto.UserCreateDTO;
+import felipe.modeloprojetofinal.users.dto.UserResponseDTO;
+import felipe.modeloprojetofinal.users.entities.User;
 
 public class UserMapper {
 

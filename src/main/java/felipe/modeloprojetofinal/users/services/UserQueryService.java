@@ -1,13 +1,12 @@
-package seunomeaqui.modeloprojetofinal.users.services;
+package felipe.modeloprojetofinal.users.services;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
-import seunomeaqui.modeloprojetofinal.users.dto.UserResponseDTO;
-import seunomeaqui.modeloprojetofinal.users.repositories.UserRepository;
-import seunomeaqui.modeloprojetofinal.users.services.UserMapper.UserMapper;
+import felipe.modeloprojetofinal.users.dto.UserResponseDTO;
+import felipe.modeloprojetofinal.users.repositories.UserRepository;
+import felipe.modeloprojetofinal.users.services.UserMapper.UserMapper;
 
 import java.util.List;
-import java.util.stream.Collectors;
 
 @Service
 @RequiredArgsConstructor

@@ -1,4 +1,4 @@
-package seunomeaqui.modeloprojetofinal.users.entities;
+package felipe.modeloprojetofinal.users.entities;
 
 
 import jakarta.persistence.*;

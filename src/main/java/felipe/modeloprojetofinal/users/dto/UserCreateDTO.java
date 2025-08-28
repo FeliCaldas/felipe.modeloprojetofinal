@@ -1,3 +1,3 @@
-package seunomeaqui.modeloprojetofinal.users.dto;
+package felipe.modeloprojetofinal.users.dto;
 
 public record UserCreateDTO(String name, String email) {}
